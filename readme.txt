@@ -4,3 +4,4 @@ Git is free software.
 author:Alan
 weather:nice
 Git has a mutable index called stage.
+Git tracks changes.
