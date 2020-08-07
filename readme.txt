@@ -5,4 +5,3 @@ author:Alan
 weather:nice
 Git has a mutable index called stage.
 Git tracks changes of files .
-My boss is a 垃圾
