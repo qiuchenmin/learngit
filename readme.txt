@@ -7,3 +7,5 @@ Git has a mutable index called stage.
 Git tracks changes of files .
 Creating a new branch is quick and simple.
 dev-branch create by 2020-08-08.
+BUG分支创建前编辑
+lalalalallalalalalallalalal
