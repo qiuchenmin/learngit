@@ -9,3 +9,5 @@ Creating a new branch is quick and simple.
 dev-branch create by 2020-08-08.
 BUG分支创建前编辑
 lalalalallalalalalallalalal
+
+通过SOURCE TREE 进行操作
